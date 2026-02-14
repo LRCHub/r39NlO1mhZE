@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サヨナ来世で",
+  "base_artist": "ayaho",
+  "createdAt": "2026-02-14T07:44:05.791386Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サヨナ来世で",
+      "artist": "ayaho",
+      "has_synced": false,
+      "path": "select/pl_01_サヨナ来世で_ayaho.txt"
+    }
+  ]
+}
